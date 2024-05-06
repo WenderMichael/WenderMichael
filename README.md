@@ -18,11 +18,7 @@ Enjoy my profile.
 </div>
  
   <br>
-  
-   <h1> The focus is evolution! </h1>
-<div>
-<img align="center" alt="zidrico-yoda" src="https://media.tenor.com/5wJl1vygaTEAAAAC/kimetsu-no-yaiba-hashira.gif">
-</div>
+
 
 # :bar_chart: GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zapotoczn&theme=dark&hide_border=false)<br/>  
